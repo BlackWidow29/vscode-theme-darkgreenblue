@@ -1,0 +1,22 @@
+{
+    "name": "dark-blue-green",
+    "displayName": "dark blue green",
+    "description": "dark water green extension for visual studio code",
+    "version": "0.0.1",
+    "publisher": "isabellydiashoran",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark water green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark water green-color-theme.json"
+            }
+        ]
+    }
+}
